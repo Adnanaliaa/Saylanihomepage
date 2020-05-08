@@ -1,0 +1,49 @@
+
+.icon{
+    padding: 8px; color: white;
+
+}
+.img{
+    width: 200px ; height: 75px;
+    margin-left: 50px;
+}
+.blockinline{
+  display: inline-block ;
+  }
+  .second{
+      top: 20px;
+  position: fixed;
+
+}
+    .carousel-slide{
+        align-items: center;
+    }
+
+.intro{
+        width: 60px;
+    margin-left: 600px;
+    }
+    .slides {
+    max-width: 10px;
+        width: 2px;
+    max-width: 2000px;
+    }
+    .text{
+        justify-content: center;
+    }
+.navi{
+    display: inline-block;
+}
+.Events{
+
+    position: absolute;
+    bottom: 180px;
+    left: 20px;
+    font-size: small;
+}
+div{
+    font-family: 
+}
+.menu{
+    margin-top: 2px;
+}
